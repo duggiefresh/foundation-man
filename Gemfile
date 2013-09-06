@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'builder', '~> 3.0.0'
+gem 'kramdown'
+gem 'middleman', '~> 3.1.0'
+gem 'middleman-blog', '~> 3.2.0'
+gem 'nokogiri'
+gem 'sitemap_generator'
+gem 'slim'
+gem 'tzinfo'
+gem 'zurb-foundation' , '~> 4.3.1', require: false
